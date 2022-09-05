@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_YcryQS0qEe2CSY5PnkWlUg" label="DWH_DYN_PROCESS" language="java" technicalLabel="DWH_DYN_PROCESS" author="_YcryQi0qEe2CSY5PnkWlUg" productVersion="Talend Cloud Data Integration-8.0.1.20220729_0744-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Autotorino/DWH_DYN.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_Yd4FEC0qEe2CSY5PnkWlUg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_YcryQi0qEe2CSY5PnkWlUg" login="gmazzoni@autotorino.it" firstName="DWH" lastName="Autotorino" type="DI"/>
+</xmi:XMI>
