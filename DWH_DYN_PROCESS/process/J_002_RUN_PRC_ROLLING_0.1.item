@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" defaultContext="Default" jobType="Standard" xmi:version="2.0">
   <context confirmationNeeded="false" name="prod">
     <contextParameter comment="" internalId="_ivyLAC0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="jdbc:oracle:thin:@autotorinodwh_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh"/>
-    <contextParameter comment="" internalId="_ivyLAS0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:fiA4aZ3lOGqsvTcvkqZyHO4HfARWnJY7q59bQDFjQFHv8ymJAUs8gP6O"/>
+    <contextParameter comment="" internalId="_ivyLAS0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:NvEXxecxf7obbLeoamMK37JZIOJjuBGpdTZQ5G54giMWNj0Hu7nWNqAD"/>
     <contextParameter comment="" internalId="_ivyLAi0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="DI_DATA_CONFIG"/>
     <contextParameter comment="" internalId="_ivyLAy0wEe25zZJNL4SQ6w" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_DYN/StorageFisico/"/>
     <contextParameter comment="" internalId="_ivyLBC0wEe25zZJNL4SQ6w" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="true"/>
@@ -16,7 +16,7 @@
   </context>
   <context confirmationNeeded="false" name="dev">
     <contextParameter comment="" internalId="_ivyLDS0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh"/>
-    <contextParameter comment="" internalId="_ivyLDi0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:UpldWSXqIL7iIWCAZT7MzNlSaJC63d10lQQlf5NbfwjBI1zfD0W0SnoB"/>
+    <contextParameter comment="" internalId="_ivyLDi0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:F7iEAzLpRVIIL+mi3y/sn1uPdE7EZTWzTttQmLWgf9XZTdTg6tFZ+/JJ"/>
     <contextParameter comment="" internalId="_ivyLDy0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="DI_DATA_CONFIG"/>
     <contextParameter comment="" internalId="_ivyLEC0wEe25zZJNL4SQ6w" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_DYN/StorageFisico/"/>
     <contextParameter comment="" internalId="_ivyLES0wEe25zZJNL4SQ6w" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="true"/>
@@ -31,7 +31,7 @@
   </context>
   <context confirmationNeeded="false" name="Default">
     <contextParameter comment="" internalId="_ivyLGi0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=C:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh"/>
-    <contextParameter comment="" internalId="_ivyLGy0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:eXcfJ9HmMomxkLWkULsZfuA7eunGVtVQuPg8XzqopGtVCSLbCpejPlMv"/>
+    <contextParameter comment="" internalId="_ivyLGy0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:b+6cyVM2CKN1KXngN4GRYLq2AHjtkpyXZENTKU1IbR3qUK/SRLeIDNbS"/>
     <contextParameter comment="" internalId="_ivyLHC0wEe25zZJNL4SQ6w" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="DI_DATA_CONFIG"/>
     <contextParameter comment="" internalId="_ivyLHS0wEe25zZJNL4SQ6w" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="C:/Talend/Talend-Output/DataSource/DWH_DYN/StorageFisico/"/>
     <contextParameter comment="" internalId="_ivyLHi0wEe25zZJNL4SQ6w" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="true"/>
@@ -89,7 +89,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:NFKf7CLMpfig/sY5pkODhdIBRXfp2O5qZvpuhKCP"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:Ti8LhXl6Fdw4JK84PSz2aWSkGHc5c4PJQLEur6P2"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -124,7 +124,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:z1aRszRsDcv5G3hMByYsGpJizCWBoV8qbqzKzrip"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:jbiYQzREzalvvvyvWYeQTKTVHmwdAdc0mDiq4ENp"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -180,7 +180,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="context.ORACLE_CLOUD_Url"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:oklCFIWUkCbhlL5aqN5ScN1ZC9XEysItUtZxqUO7nfiD5LrFOUDuHORmG2m4/snMdP13YvkxX2EA"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:kY8Z5v0rhXXori/X6COa+d09HmPeeZ/y8wW61s6+sVgHXGe5JNvCO3/g56Onl06B7IgKITV05b0y"/>
     <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
@@ -257,7 +257,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TABLESCHEMA" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:Yj1wqs0AyrQG3T0RVMJP+w1kk51fCvJvyXXTSNQu"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:ky5+dqoL7QcdtRj3eW0F2IaDNf+T8JT4RyVn8xn7"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;DI_DATA_CONFIG.TAL_JOB_PROCESS&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="NONE"/>
     <elementParameter field="LABEL" name="NOTE" show="false" value="Warning : this component configuration will automatically generate a commit before data insert/update/delete"/>
@@ -354,7 +354,7 @@
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:jzVEMaTuwqY4ADEstwYZTvFf/Y9pvruRkef6K4p6EwphzkZK/P3MimOGS8N4vLY6V1qLZttnquRu"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:4hvtw4rW0xht+OSgreg+ioyqRbtmgf+WaCIXY7mOstlwGhkEuM6l+gxpW3Rpr3moWuBOCn5uPc8Y"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -400,7 +400,7 @@
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:M/AFYVJ7W10gXo7QD43KlQAFOa0lwRqKbXfb90HbOc0ShAdsUzdy67co45KCQmPT27jzUYGWLx5+"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:D+uE8jkfJk8JXD4cUhae4ryzV+RQsS2+t9cBkIq3E6VTUYxZQ2X7ZbvPFHE0JUKGNgO5gNaDy5cw"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -476,13 +476,13 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:k0U8Ep8LgCRLjfRXzyCf0JKELlUQurA1xFrpWDMn3LonFLDpI/jKo6rF9gcL4SzohV1MSba4HboZ"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:tCDrE9lMqoSzoh10r9r7fcfCxApNR8MmPVZYGnvrxFjj5GBAOozcxBvV+z9u36/jMwDVfw6v8VtT"/>
     <elementParameter field="CHECK" name="USE_SSL" value="false"/>
     <elementParameter field="FILE" name="SSL_TRUSTSERVER_TRUSTSTORE" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_PASSWORD" show="false" value="enc:system.encryption.key.v1:sAyN8f1Wyvm3PnJjlDv/yc61MyAxXA4ndRxzd0Sn"/>
+    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_PASSWORD" show="false" value="enc:system.encryption.key.v1:8IKYxpvvSB+rzeEaD7+4wDIJvR0FFESe+o/yfcDT"/>
     <elementParameter field="CHECK" name="NEED_CLIENT_AUTH" show="false" value="false"/>
     <elementParameter field="FILE" name="SSL_KEYSTORE" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SSL_KEYSTORE_PASSWORD" show="false" value="enc:system.encryption.key.v1:HXyBITdZwXzik5+H7dNJwx+8KF7tnerqxL9lKWzH"/>
+    <elementParameter field="PASSWORD" name="SSL_KEYSTORE_PASSWORD" show="false" value="enc:system.encryption.key.v1:WJBhWuB39UuEbAP9yukaBgPSsHDnsgCyagAzxm/P"/>
     <elementParameter field="CHECK" name="DISABLE_CBC_PROTECTION" show="false" value="true"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
@@ -512,7 +512,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:IcmcL+QIXR3Wq2xsMtTCvWF/fFK20qCOeD4JuWvE"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:bphF9xdqAD6klSPpwxof/Ghdz4TJj9XOJOmDhqxw"/>
     <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
@@ -562,7 +562,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tDBCommit_2"/>
   </node>
-  <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="576" posY="352">
+  <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="576" posY="256">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFixedFlowInput_1"/>
     <elementParameter field="TEXT" name="NB_ROWS" value="1"/>
     <elementParameter field="RADIO" name="USE_SINGLEMODE" value="true"/>
@@ -585,56 +585,13 @@
       <column comment="" key="false" length="-1" name="JOB_PROCESS_DATE" nullable="true" originalLength="-1" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="-1" sourceType="" type="id_Date" usefulColumn="true"/>
     </metadata>
   </node>
-  <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="832" posY="352">
+  <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="832" posY="256">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tJavaRow_3"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="java.sql.CallableStatement statement_tDBSP_1 = null;&#10;String feedBackJob = (String)globalMap.get(&quot;FEED_BACK_JOB&quot;);&#10;&#10;try {&#10;      java.sql.Connection connection_tDBSP_1 = (java.sql.Connection) globalMap&#10;&#9;&#9;&#9;&#9;&#9;&#9;.get(&quot;conn_tDBConnection_2&quot;);&#10;&#10;&#9;  statement_tDBSP_1 = connection_tDBSP_1&#10;&#9;&#9;&#9;&#9;&#9;&#9;.prepareCall(&quot;{call &quot;+ globalMap.get(&quot;procedureToCall&quot;) + &quot;(?,?)}&quot;);&#10;&#10;&#9;  &#10;&#9;  if (paramCallSP.JOB_PROCESS_ID == null) {&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setNull(1, java.sql.Types.INTEGER);&#10;&#9;  } else {&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setInt(1, paramCallSP.JOB_PROCESS_ID);&#10;&#9;  }&#10;&#10;&#9;  if (paramCallSP.JOB_PROCESS_DATE == null) {&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setNull(2, java.sql.Types.DATE);&#10;&#9;  } else {&#10;&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setTimestamp(2, new java.sql.Timestamp(&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;paramCallSP.JOB_PROCESS_DATE.getTime()));&#10;&#10;&#9;  }&#10;      &#10;&#9;  statement_tDBSP_1.execute();&#10;&#9;  &#10;&#9;   org.apache.log4j.Logger.getRootLogger().info(&quot;[&quot;+jobName+&quot;]:&lt;Invocazione corretta della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,'&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;')&gt;&quot;);&#10;&#9;   &#10;&#9;   feedBackJob = (feedBackJob!=null?feedBackJob:&quot;&quot;) + &quot;Invocazione corretta della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;)\n&quot;;&#10;&#9;&#9;&#9;&#9;&#10;}&#10;catch(Exception e){&#10;&#10;  org.apache.log4j.Logger.getRootLogger().error(&quot;[&quot;+jobName+&quot;]:&lt;Errore nell'invocazione della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,'&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;')&gt;&quot;);&#10;  &#10;     feedBackJob = (feedBackJob!=null?feedBackJob:&quot;&quot;) + &quot;Errore invocazione della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;)\n&quot;;&#10;     &#10;     &#10;//Code generated according to input schema and output schema&#10;output_row.PROCEDURE_NAME = (String)globalMap.get(&quot;procedureToCall&quot;);&#10;output_row.JOB_PROCESS_ID = input_row.JOB_PROCESS_ID;&#10;output_row.JOB_PROCESS_DATE = input_row.JOB_PROCESS_DATE;&#10;output_row.PROCEDURE_ERROR = e.getMessage().replace(&quot;\n&quot;, &quot; &quot;);     &#10;  &#10;}&#10;finally{&#10;  if(statement_tDBSP_1!=null)&#10;     statement_tDBSP_1.close();&#10;     &#10;  globalMap.put(&quot;FEED_BACK_JOB&quot;,feedBackJob);&#10;}&#10;&#10;&#13;&#10;"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="java.sql.CallableStatement statement_tDBSP_1 = null;&#10;String feedBackJob = (String)globalMap.get(&quot;FEED_BACK_JOB&quot;);&#10;&#10;globalMap.put(&quot;output_row.PROCEDURE_NAME_ERROR&quot;,null);&#10;&#10;try {&#10;      java.sql.Connection connection_tDBSP_1 = (java.sql.Connection) globalMap&#10;&#9;&#9;&#9;&#9;&#9;&#9;.get(&quot;conn_tDBConnection_2&quot;);&#10;&#10;&#9;  statement_tDBSP_1 = connection_tDBSP_1&#10;&#9;&#9;&#9;&#9;&#9;&#9;.prepareCall(&quot;{call &quot;+ globalMap.get(&quot;procedureToCall&quot;) + &quot;(?,?)}&quot;);&#10;&#10;&#9;  &#10;&#9;  if (paramCallSP.JOB_PROCESS_ID == null) {&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setNull(1, java.sql.Types.INTEGER);&#10;&#9;  } else {&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setInt(1, paramCallSP.JOB_PROCESS_ID);&#10;&#9;  }&#10;&#10;&#9;  if (paramCallSP.JOB_PROCESS_DATE == null) {&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setNull(2, java.sql.Types.DATE);&#10;&#9;  } else {&#10;&#10;&#9;&#9;&#9;&#9;statement_tDBSP_1.setTimestamp(2, new java.sql.Timestamp(&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;paramCallSP.JOB_PROCESS_DATE.getTime()));&#10;&#10;&#9;  }&#10;      &#10;&#9;  statement_tDBSP_1.execute();&#10;&#9;  &#10;&#9;   org.apache.log4j.Logger.getRootLogger().info(&quot;[&quot;+jobName+&quot;]:&lt;Invocazione corretta della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,'&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;')&gt;&quot;);&#10;&#9;   &#10;&#9;   feedBackJob = (feedBackJob!=null?feedBackJob:&quot;&quot;) + &quot;Invocazione corretta della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;)\n&quot;;&#10;&#9;&#9;&#9;&#9;&#10;}&#10;catch(Exception e){&#10;&#10;  org.apache.log4j.Logger.getRootLogger().error(&quot;[&quot;+jobName+&quot;]:&lt;Errore nell'invocazione della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,'&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;')&gt;&quot;);&#10;  &#10;     feedBackJob = (feedBackJob!=null?feedBackJob:&quot;&quot;) + &quot;Errore invocazione della PROCEDURE :&quot;+globalMap.get(&quot;procedureToCall&quot;)+&quot;(&quot;+paramCallSP.JOB_PROCESS_ID+&quot;,&quot;+(new SimpleDateFormat(&quot;yyyy-MM-dd HH:mm:ss&quot;).format(paramCallSP.JOB_PROCESS_DATE))+&quot;)\n&quot;;&#10;     &#10;     &#10;      globalMap.put(&quot;output_row.PROCEDURE_NAME_ERROR&quot;,(String)globalMap.get(&quot;procedureToCall&quot;));&#10;&#9;  globalMap.put(&quot;output_row.JOB_PROCESS_ID&quot;,input_row.JOB_PROCESS_ID.toString());&#10;&#9;  globalMap.put(&quot;output_row.JOB_PROCESS_DATE&quot;,input_row.JOB_PROCESS_DATE.toString());&#10;&#9;  globalMap.put(&quot;output_row.PROCEDURE_ERROR&quot;,e.getMessage().replace(&quot;\n&quot;, &quot; &quot;));&#9;  &#10;  &#10;}&#10;finally{&#10;  if(statement_tDBSP_1!=null)&#10;     statement_tDBSP_1.close();&#10;     &#10;  globalMap.put(&quot;FEED_BACK_JOB&quot;,feedBackJob);&#10;}&#10;&#10;&#13;&#10;"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="LABEL" value="CALL_SP"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" name="tJavaRow_3">
-      <column comment="" key="false" length="-1" name="PROCEDURE_NAME" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="JOB_PROCESS_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_Integer" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="JOB_PROCESS_DATE" nullable="true" originalLength="-1" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="-1" sourceType="" type="id_Date" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="PROCEDURE_ERROR" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-    </metadata>
-  </node>
-  <node componentName="tFileOutputDelimited" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1056" posY="352">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileOutputDelimited_1"/>
-    <elementParameter field="CHECK" name="USESTREAM" value="false"/>
-    <elementParameter field="TEXT" name="STREAMNAME" show="false" value="outputStream"/>
-    <elementParameter field="FILE" name="FILENAME" value="context.TALEND_PATH_FILE_CSV + &quot;/Segnalazioni/&quot;+&quot;segnalazioniDWH_DYN_PROCESS_J002.csv&quot;"/>
-    <elementParameter field="TEXT" name="ROWSEPARATOR" show="false" value="&quot;\n&quot;"/>
-    <elementParameter field="CHECK" name="OS_LINE_SEPARATOR_AS_ROW_SEPARATOR" value="true"/>
-    <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;"/>
-    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;;&quot;"/>
-    <elementParameter field="CHECK" name="APPEND" value="true"/>
-    <elementParameter field="CHECK" name="INCLUDEHEADER" value="false"/>
-    <elementParameter field="CHECK" name="COMPRESS" show="false" value="false"/>
-    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
-    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" show="false" value="&quot;,&quot;"/>
-    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" show="false" value="&quot;.&quot;"/>
-    <elementParameter field="CHECK" name="CSV_OPTION" value="true"/>
-    <elementParameter field="TEXT" name="ESCAPE_CHAR" value="&quot;&quot;&quot;"/>
-    <elementParameter field="TEXT" name="TEXT_ENCLOSURE" value="&quot;&quot;&quot;"/>
-    <elementParameter field="CHECK" name="CREATE" value="true"/>
-    <elementParameter field="CHECK" name="SPLIT" value="false"/>
-    <elementParameter field="TEXT" name="SPLIT_EVERY" show="false" value="1000"/>
-    <elementParameter field="CHECK" name="FLUSHONROW" value="false"/>
-    <elementParameter field="TEXT" name="FLUSHONROW_NUM" show="false" value="1"/>
-    <elementParameter field="CHECK" name="ROW_MODE" value="false"/>
-    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;"/>
-    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
-    <elementParameter field="CHECK" name="DELETE_EMPTYFILE" value="false"/>
-    <elementParameter field="CHECK" name="FILE_EXIST_EXCEPTION" show="false" value="false"/>
-    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="90"/>
-    <elementParameter field="TEXT" name="LABEL" value="FILE_SEGNALAZIONI"/>
-    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" name="tFileOutputDelimited_1">
-      <column comment="" key="false" length="-1" name="PROCEDURE_NAME" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="JOB_PROCESS_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_Integer" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="JOB_PROCESS_DATE" nullable="true" originalLength="-1" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="-1" sourceType="" type="id_Date" usefulColumn="true"/>
-      <column comment="" key="false" length="-1" name="PROCEDURE_ERROR" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
-    </metadata>
+    <metadata connector="FLOW" name="tJavaRow_3"/>
   </node>
   <node componentName="tOracleInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="96" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBInput_5"/>
@@ -650,14 +607,14 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="context.ORACLE_CLOUD_Url"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:QZoVtGrINbc5jliIH4Y7kbzStDhg8k9B48qHUgGx7w/9KOHNGT6PRNfG8GWWCehMhnCo8nPVaZwY"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:BxnWr77HwfPN0jwJ3lsyyUoqz9pZFkAaKyCSSwAw965OhXyfn5zwpNOVlVxxL//vtt3iQ/UBSui0"/>
     <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
     <elementParameter field="GUESS_SCHEMA" name="GUESS_SCHEMA" value="&quot;&quot;"/>
-    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT COD_PROJECT,COD_PARAMETERS,VALUE_PARAMETERS  FROM DI_DATA_CONFIG.TAL_PARAMETERS_PROJECT&#13;&#10;   WHERE COD_PROJECT = 'DWH_DYN_PROCESS' AND COD_PARAMETERS='PROC_STATIC_RUN' &quot;"/>
+    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT COD_PROJECT,COD_PARAMETERS,VALUE_PARAMETERS  FROM DI_DATA_CONFIG.TAL_PARAMETERS_PROJECT&#13;&#10;   WHERE COD_PROJECT = 'DWH_DYN_PROCESS' AND COD_PARAMETERS='PROC_ROLLING_TABLE' &quot;"/>
     <elementParameter field="LABEL" name="NOTE" show="false" value="This option only applies when deploying and running in the Talend Runtime"/>
     <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" show="false" value="false"/>
     <elementParameter field="TEXT" name="DATASOURCE_ALIAS" show="false" value="&quot;&quot;"/>
@@ -740,6 +697,133 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tFileDelete_1"/>
   </node>
+  <node componentName="tOracleInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="576" posY="384">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBInput_1"/>
+    <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="true"/>
+    <elementParameter field="COMPONENT_LIST" name="CONNECTION" value="tDBConnection_2"/>
+    <elementParameter field="CLOSED_LIST" name="CONNECTION_TYPE" show="false" value="ORACLE_SID"/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION" show="false" value="ORACLE_18"/>
+    <elementParameter field="TEXT" name="RAC_URL" show="false" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="HOST" show="false" value="context.RO"/>
+    <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
+    <elementParameter field="TEXT" name="PORT" show="false" value="&quot;1521&quot;"/>
+    <elementParameter field="TEXT" name="DBNAME" show="false" value="context.ORACLE_CLOUD_Url"/>
+    <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="context.ORACLE_CLOUD_Url"/>
+    <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:zXwpn6OjqurUDQdEXd5iOF0chM0YT6EL6mu9iU/CMo4OJ6x9fQoEVYfK9EnrQJOXB1/BSahTtEbw"/>
+    <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
+    <elementParameter field="DBTABLE" name="TABLE" value=""/>
+    <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
+    <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
+    <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
+    <elementParameter field="GUESS_SCHEMA" name="GUESS_SCHEMA" value="&quot;&quot;"/>
+    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;SELECT &#13;&#10;  PROCESS_NAME,&#13;&#10;  OBJECT_INVOLVED,&#13;&#10;  TRACKED_OPERATION &#13;&#10;FROM DWH_TABUSER.DWH_LOG_TABLE &#13;&#10; WHERE &#13;&#10;   PROCESS_NAME = '&quot;+(String)globalMap.get(&quot;procedureToCall&quot;)+&quot;' &#13;&#10;   AND PROCESS_ID = &quot; + ((Long)globalMap.get(&quot;lastInsertProcessIDJOB&quot;))"/>
+    <elementParameter field="LABEL" name="NOTE" show="false" value="This option only applies when deploying and running in the Talend Runtime"/>
+    <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" show="false" value="false"/>
+    <elementParameter field="TEXT" name="DATASOURCE_ALIAS" show="false" value="&quot;&quot;"/>
+    <elementParameter field="MAPPING_TYPE" name="MAPPING" show="false" value="oracle_id"/>
+    <elementParameter field="TEXT" name="PROPERTIES" show="false" value="context.DDP_AT_DATABASE_AdditionalParams"/>
+    <elementParameter field="LABEL" name="NOTE" show="false" value="*Note: Example for Additional JDBC Parameters: &quot;parameterName1=value1&amp;&amp;parameterName2=value2&quot;"/>
+    <elementParameter field="CHECK" name="IS_CONVERT_XMLTYPE" value="false"/>
+    <elementParameter field="TABLE" name="CONVERT_XMLTYPE" show="false"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" show="false" value="ISO-8859-15"/>
+    <elementParameter field="CHECK" name="USE_CURSOR" value="false"/>
+    <elementParameter field="TEXT" name="CURSOR_SIZE" show="false" value="1000"/>
+    <elementParameter field="CHECK" name="TRIM_ALL_COLUMN" value="false"/>
+    <elementParameter field="TABLE" name="TRIM_COLUMN">
+      <elementValue elementRef="SCHEMA_COLUMN" value="PROCESS_NAME"/>
+      <elementValue elementRef="TRIM" value="false"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="OBJECT_INVOLVED"/>
+      <elementValue elementRef="TRIM" value="false"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="TRACK_OPERATION"/>
+      <elementValue elementRef="TRIM" value="false"/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="NO_NULL_VALUES" value="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="READ_RESULT_SP"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="tDBInput_1">
+      <column comment="" key="false" length="60" name="PROCESS_NAME" nullable="false" originalLength="60" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="60" name="OBJECT_INVOLVED" nullable="false" originalLength="-1" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="500" name="TRACK_OPERATION" nullable="false" originalLength="500" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tJavaRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="800" posY="384">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tJavaRow_4"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="org.apache.log4j.Logger.getRootLogger().info(&quot;[&quot;+jobName+&quot;]:&lt;Procedura Rolling:&quot;+input_row.PROCESS_NAME+&quot;&gt;&quot;);&#10;org.apache.log4j.Logger.getRootLogger().info(&quot;[&quot;+jobName+&quot;]:&lt;Tabella Rolling:&quot;+input_row.OBJECT_INVOLVED+&quot;&gt;&quot;);&#10;org.apache.log4j.Logger.getRootLogger().info(&quot;[&quot;+jobName+&quot;]:&lt;Risultato Rolling:&quot;+input_row.TRACK_OPERATION+&quot;&gt;&quot;);&#10;&#10;&#10;&#10;globalMap.put(&quot;FEED_BACK_JOB&quot;, &quot;Procedura Rolling:&quot; + input_row.PROCESS_NAME + &quot;\n &quot;+&#10;                               &quot;Tabella Rolling:&quot; + input_row.OBJECT_INVOLVED + &quot;\n &quot;+&#10;                               &quot;Risultato Rolling:&quot; + input_row.TRACK_OPERATION);&#10;&#10;&#13;&#10;"/>
+    <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
+    <elementParameter field="TEXT" name="LABEL" value="LOG_RESULT"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="tJavaRow_4"/>
+  </node>
+  <node componentName="tFixedFlowInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="992" posY="256">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFixedFlowInput_2"/>
+    <elementParameter field="TEXT" name="NB_ROWS" value="1"/>
+    <elementParameter field="RADIO" name="USE_SINGLEMODE" value="true"/>
+    <elementParameter field="TABLE" name="VALUES">
+      <elementValue elementRef="SCHEMA_COLUMN" value="PROCEDURE_NAME_ERROR"/>
+      <elementValue elementRef="VALUE" value="(String)globalMap.get(&quot;output_row.PROCEDURE_NAME_ERROR&quot;)"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="JOB_PROCESS_ID"/>
+      <elementValue elementRef="VALUE" value="(String)globalMap.get(&quot;output_row.JOB_PROCESS_ID&quot;)"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="JOB_PROCESS_DATE"/>
+      <elementValue elementRef="VALUE" value="(String)globalMap.get(&quot;output_row.JOB_PROCESS_DATE&quot;)"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="PROCEDURE_ERROR"/>
+      <elementValue elementRef="VALUE" value="(String)globalMap.get(&quot;output_row.PROCEDURE_ERROR&quot;)"/>
+    </elementParameter>
+    <elementParameter field="RADIO" name="USE_INTABLE" value="false"/>
+    <elementParameter field="TABLE" name="INTABLE" show="false"/>
+    <elementParameter field="RADIO" name="USE_INLINECONTENT" value="false"/>
+    <elementParameter field="TEXT" name="ROWSEPARATOR" show="false" value="&quot;\n&quot;"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" show="false" value="&quot;;&quot;"/>
+    <elementParameter field="MEMO" name="INLINECONTENT" show="false" value=""/>
+    <elementParameter field="TEXT" name="LABEL" value="FIXED_FLOW"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="tFixedFlowInput_2">
+      <column comment="" key="false" length="-1" name="PROCEDURE_NAME_ERROR" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="JOB_PROCESS_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="JOB_PROCESS_DATE" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="PROCEDURE_ERROR" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
+  <node componentName="tFileOutputDelimited" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1152" posY="256">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileOutputDelimited_2"/>
+    <elementParameter field="CHECK" name="USESTREAM" value="false"/>
+    <elementParameter field="TEXT" name="STREAMNAME" show="false" value="outputStream"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.TALEND_PATH_FILE_CSV + &quot;/Segnalazioni/&quot;+&quot;segnalazioniDWH_DYN_PROCESS_J002.csv&quot;"/>
+    <elementParameter field="TEXT" name="ROWSEPARATOR" show="false" value="&quot;\n&quot;"/>
+    <elementParameter field="CHECK" name="OS_LINE_SEPARATOR_AS_ROW_SEPARATOR" value="true"/>
+    <elementParameter field="OPENED_LIST" name="CSVROWSEPARATOR" value="&quot;\n&quot;"/>
+    <elementParameter field="TEXT" name="FIELDSEPARATOR" value="&quot;;&quot;"/>
+    <elementParameter field="CHECK" name="APPEND" value="true"/>
+    <elementParameter field="CHECK" name="INCLUDEHEADER" value="true"/>
+    <elementParameter field="CHECK" name="COMPRESS" show="false" value="false"/>
+    <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
+    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" show="false" value="&quot;,&quot;"/>
+    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" show="false" value="&quot;.&quot;"/>
+    <elementParameter field="CHECK" name="CSV_OPTION" value="true"/>
+    <elementParameter field="TEXT" name="ESCAPE_CHAR" value="&quot;&quot;&quot;"/>
+    <elementParameter field="TEXT" name="TEXT_ENCLOSURE" value="&quot;&quot;&quot;"/>
+    <elementParameter field="CHECK" name="CREATE" value="true"/>
+    <elementParameter field="CHECK" name="SPLIT" value="false"/>
+    <elementParameter field="TEXT" name="SPLIT_EVERY" show="false" value="1000"/>
+    <elementParameter field="CHECK" name="FLUSHONROW" value="false"/>
+    <elementParameter field="TEXT" name="FLUSHONROW_NUM" show="false" value="1"/>
+    <elementParameter field="CHECK" name="ROW_MODE" value="false"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;"/>
+    <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
+    <elementParameter field="CHECK" name="DELETE_EMPTYFILE" value="false"/>
+    <elementParameter field="CHECK" name="FILE_EXIST_EXCEPTION" show="false" value="false"/>
+    <elementParameter field="TEXT" name="SCHEMA_OPT_NUM" show="false" value="90"/>
+    <elementParameter field="TEXT" name="LABEL" value="FILE_SEGNALAZIONI"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="tFileOutputDelimited_2">
+      <column comment="" key="false" length="-1" name="PROCEDURE_NAME_ERROR" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="JOB_PROCESS_ID" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="JOB_PROCESS_DATE" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="-1" name="PROCEDURE_ERROR" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="" type="id_String" usefulColumn="true"/>
+    </metadata>
+  </node>
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tJava_1" offsetLabelX="0" offsetLabelY="0" source="tJava_1" target="tDBInput_2">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk18"/>
   </connection>
@@ -808,9 +892,12 @@
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="paramCallSP"/>
   </connection>
-  <connection connectorName="FLOW" label="errorProcedure" lineStyle="0" metaname="tJavaRow_3" offsetLabelX="0" offsetLabelY="0" source="tJavaRow_3" target="tFileOutputDelimited_1">
-    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="errorProcedure"/>
+  <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tFixedFlowInput_1" offsetLabelX="0" offsetLabelY="0" source="tFixedFlowInput_1" target="tDBInput_1">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk6"/>
+  </connection>
+  <connection connectorName="RUN_IF" label="ERROR" lineStyle="6" metaname="tJavaRow_3" offsetLabelX="0" offsetLabelY="0" source="tJavaRow_3" target="tFixedFlowInput_2">
+    <elementParameter field="MEMO_JAVA" name="CONDITION" value="globalMap.get(&quot;output_row.PROCEDURE_NAME_ERROR&quot;) != null"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="ERROR"/>
   </connection>
   <connection connectorName="FLOW" label="parameterPrc" lineStyle="0" metaname="tDBInput_5" offsetLabelX="0" offsetLabelY="0" source="tDBInput_5" target="tJavaRow_5">
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
@@ -836,6 +923,28 @@
   </connection>
   <connection connectorName="COMPONENT_OK" label="OnComponentOk" lineStyle="3" metaname="tFileDelete_1" offsetLabelX="5" offsetLabelY="-50" source="tFileDelete_1" target="tLoop_1">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnComponentOk21"/>
+  </connection>
+  <connection connectorName="FLOW" label="resultSP" lineStyle="0" metaname="tDBInput_1" offsetLabelX="0" offsetLabelY="0" source="tDBInput_1" target="tJavaRow_4">
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="resultSP"/>
+  </connection>
+  <connection connectorName="FLOW" label="flowOut" lineStyle="0" metaname="tFixedFlowInput_2" offsetLabelX="0" offsetLabelY="0" source="tFixedFlowInput_2" target="tFileOutputDelimited_2">
+    <elementParameter field="TABLE" name="TRACES_CONNECTION_FILTER" show="false">
+      <elementValue elementRef="TRACE_COLUMN" value="PROCEDURE_NAME_ERROR"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="JOB_PROCESS_DATE"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="JOB_PROCESS_ID"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="PROCEDURE_ERROR"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+    </elementParameter>
+    <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="flowOut"/>
   </connection>
   <subjob>
     <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
@@ -956,13 +1065,27 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_78c62077-b9cd-4249-864d-d87b86830e8a"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>lN/ipzzbEpiK4zaohuPDNyYour+4DejVgj6GKnwK7hBhuMv9VEdhjwMdmCtWLpavFGt7S1YmhkYt&#13;
-TqeyRIJiIg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_910d653d-df5a-4da7-8148-f76e181898e5"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ZQWrp+ir+cangUjCpE+AdxJbZoMmqlatv902QoRMUb5wFfC0N7IUXJP/NfNIyejThUvyXlUyB6yw&#13;
-pC4fhVAndQ==</DigestValue></Reference></SignedInfo><SignatureValue>k1LhiJImRfthgR6ZuB6rJf/nn81bY+FEzWflkYSM5wg3oj76st455jxgozVIsYsbjrtlUTwQZD90&#13;
-X5mkjejEIV+VtZ0GwYeQ3CctTKS1441ZUMyWGF7yFLOHzxqix2kMxraUXq2igyMXXE8TIWtHrduY&#13;
-nJzvLkwjY8fc4dh9QoMGSbV36qINgkEWYuF01bwFMnBixq3DDQM7QuISFOLlZH7Iy6+C8/oqsctw&#13;
-xwl9OequM6YS4mnnWHSuupyOatLdbGfwTP+Tr/fXrogoVZp96D5hlQP6zdjYq5vjdYIBmyinRxMW&#13;
-c24sxH/41tSEMowz0HhfOf6uozc+30eUSeTX1g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+  <subjob>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBInput_1"/>
+    <elementParameter field="TEXT" name="SUBJOB_TITLE" value="LOG RESULT CALL"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="92;131;150"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+  </subjob>
+  <subjob>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFixedFlowInput_2"/>
+    <elementParameter field="TEXT" name="SUBJOB_TITLE" value="WRITE SEGNALAZIONI"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="255;0;0"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+  </subjob>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_3d088a7d-6d41-4dd6-a7dc-1018cafdec47"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>jZNi8Sl0ofGqITheOlWzGYF/O0PvrnkrGBa9vBcZZy66tfwEICoCuGbVRbsw/K4qyBKGwaUGvg5L&#13;
+IL/yZvoSeA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_f072360a-9fd9-4fa8-9811-9ac36f937fe6"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9D8wDoRMeFTXvNQqUSRt4zK8Yf9y3aXJryybqm6ltnakMabeTUduY3pIvOqdIUZKLqrZEQdlvVCC&#13;
+bx+3cAr+oA==</DigestValue></Reference></SignedInfo><SignatureValue>gvRGTmh2vIlxE8/1M6WpeiwlHyspXFltITzdkphbjFwl1I5d4VceQv70joHLGmTIrGRg7kd9dD78&#13;
+rP+a9ERaI4OMMcxe2INFX3fETvQli3QwYPFCk5RNgrqOQ88XrjbaAZSLRM+l2FeFnXBBbLewEmaa&#13;
+HDNG+Ef2zm61mC+SEZQHftpbNEGg1+73fQtiNcD5W+S61VYJlc+1tuLiQEdEJ2b5yTSPfOQRrs2Q&#13;
+nkXNrU6s8F8NMnT/NDdHYVxv/gh0wFQuCKiwEpSIeOVM71B7WAyLhQraOHpFvcu68ATIOe6qsgTD&#13;
+DR0p2RnNADwCK0oXKQFzJ8SCy5R0wymwXiUNEQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -984,4 +1107,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_910d653d-df5a-4da7-8148-f76e181898e5" Target="#_78c62077-b9cd-4249-864d-d87b86830e8a"><Timestamp>2022-09-06 12:25:39</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_f072360a-9fd9-4fa8-9811-9ac36f937fe6" Target="#_3d088a7d-6d41-4dd6-a7dc-1018cafdec47"><Timestamp>2022-12-23 11:14:55</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
